@@ -1,2 +1,2 @@
 
-Copyright (C) 2021 Dawid
+Copyright (C) 2021 Dawid Mędrala
